@@ -11,7 +11,7 @@ The lens stays aimed at the seats of power: public figures, institutions, the pe
 
 When the reporters disagree, the disagreement is printed. When the evidence is thin, they sit it out rather than guess. Every claim links back to the article it came from, and sourced facts are never mixed with reporter inference.
 
-[How this gets made](/Mythara-Blog/methodology/)
+[How this gets made](/Mythara-Blog/methodology/) · [Browse past editions — the archive](/Mythara-Blog/archive/) · [Listen — the radio edition](/Mythara-Blog/radio/)
 
 ---
 
