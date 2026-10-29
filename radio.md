@@ -8,4 +8,8 @@ permalink: /radio/
 
 The morning edition, read aloud by the panel. Every radio edition, newest first.
 
-Radio editions appear here as they are posted.
+## October 2026
+
+- **Radio edition — October 29, 2026** — 36:45 · [the print edition](/Mythara-Blog/2026/10/29/morning-edition.html)
+
+<audio controls preload="none" src="/Mythara-Blog/radio/radio-edition-2026-10-29.mp3"></audio>
