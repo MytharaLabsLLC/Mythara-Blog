@@ -10,6 +10,7 @@ Every morning edition of the Mythara News Network, newest first.
 
 ## November 2026
 
+- [Morning edition — November 16, 2026](/Mythara-Blog/2026/11/16/morning-edition.html) — 14 stories
 - [Morning edition — November 15, 2026](/Mythara-Blog/2026/11/15/morning-edition.html) — 14 stories
 - [Morning edition — November 14, 2026](/Mythara-Blog/2026/11/14/morning-edition.html) — 14 stories
 - [Morning edition — November 13, 2026](/Mythara-Blog/2026/11/13/morning-edition.html) — 14 stories
