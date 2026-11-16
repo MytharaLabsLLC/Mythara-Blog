@@ -10,6 +10,10 @@ The morning edition, read aloud by the panel. Every radio edition, newest first.
 
 ## November 2026
 
+- **Radio edition — November 16, 2026** — 15:41 · [the print edition](/Mythara-Blog/2026/11/16/morning-edition.html)
+
+<audio controls preload="none" src="/Mythara-Blog/radio/radio-edition-2026-11-16.mp3"></audio>
+
 - **Radio edition — November 15, 2026** — 12:07 · [the print edition](/Mythara-Blog/2026/11/15/morning-edition.html)
 
 <audio controls preload="none" src="/Mythara-Blog/radio/radio-edition-2026-11-15.mp3"></audio>
