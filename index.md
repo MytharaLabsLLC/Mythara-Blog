@@ -1,6 +1,6 @@
 ---
 layout: network
-title: Mythara News Network
+title: Mythara News
 ---
 
 # Eight reporters read the morning news. Then they tell you what the coverage is hiding.
