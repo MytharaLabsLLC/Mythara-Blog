@@ -6,10 +6,11 @@ permalink: /archive/
 
 # Archive
 
-Every morning edition of the Mythara News Network, newest first.
+Every morning edition of Mythara News, newest first.
 
 ## November 2026
 
+- [Morning edition — November 26, 2026](/Mythara-Blog/2026/11/26/morning-edition.html) — 14 stories
 - [Morning edition — November 25, 2026](/Mythara-Blog/2026/11/25/morning-edition.html) — 14 stories
 - [Morning edition — November 24, 2026](/Mythara-Blog/2026/11/24/morning-edition.html) — 14 stories
 - [Morning edition — November 23, 2026](/Mythara-Blog/2026/11/23/morning-edition.html) — 14 stories
